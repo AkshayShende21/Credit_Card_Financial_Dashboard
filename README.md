@@ -17,6 +17,6 @@ Male customers contributed 31M in revenue, surpassing the $26M contributed by fe
 Blue and silver credit cards dominated transactions, accounting for 93% of the total.
 TX, NY & CA emerged as key contributors, representing 93% of overall transactions.
 Activation rate stood at 57.5%, with a delinquency rate of 6.06%.
-
 Key Takeaways
+
 This dashboard offers actionable insights, empowering stakeholders to make informed decisions and drive business growth.
